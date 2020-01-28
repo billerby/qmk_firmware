@@ -1,6 +1,6 @@
-# Mekberg's TADA68 layout
+# Billerby's TADA68 layout
 
-More or less a standard Swedish ISO layout, with Mac-centric key positions. All keys not assigned on non-default layers are set to KC_NO
+More or less a standard Swedish ISO layout. All keys not assigned on non-default layers are set to KC_NO
 as I don't want them to pass through when activating a layer.
 
 # Layers
@@ -13,11 +13,11 @@ as I don't want them to pass through when activating a layer.
 |----------------------------------------------------------------------------------------------------------------------------------------------|
 |    Tab     |    Q   |    W   |    E   |    R   |    T   |    Y   |    U   |    I   |    O   |    P   |    Å   |    ¨   |            |  End   |
 |--------------------------------------------------------------------------------------------------------------------------|          |--------|
-|    LCtrl     |    A   |    S   |    D   |    F   |    G   |    H   |    J   |    K   |    L   |   Ö    |   Ä    |   '    |   Enter  |  PgUp  |
+| Caps Lock    |    A   |    S   |    D   |    F   |    G   |    H   |    J   |    K   |    L   |   Ö    |   Ä    |   '    |   Enter  |  PgUp  |
 |----------------------------------------------------------------------------------------------------------------------------------------------|
 |  LShift  |   <>   |    Z   |   X    |   C    |    V   |    B   |    N   |    M   |   ,    |   .    |   -    |   RShift     |   Up   |  PgDn  |
 |----------------------------------------------------------------------------------------------------------------------------------------------|
-|  LCtrl   |   LAlt   | Command  |                        Space                          |Command |  RAlt  |  Fn    |  Left  |  Down  | Right  |
+|  LCtrl   |   Win   | LAlt  |                        Space                          |RAlt   |  Fn    |    RCtrl    |  Left  |  Down  | Right  |
 `----------------------------------------------------------------------------------------------------------------------------------------------'
 ```
 
