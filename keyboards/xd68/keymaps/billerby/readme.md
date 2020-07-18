@@ -1,4 +1,4 @@
-# XD68 layout for Default ANSI
+# XD68 layout for my ISO
 
 ```
 make xd68:billerby
